@@ -1,5 +1,9 @@
 package com.basu.beans;
 
-public class Util {
+import java.util.Date;
 
+public class Util {
+	public Date getDate() {
+		return new Date();
+	}
 }

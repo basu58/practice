@@ -9,5 +9,8 @@ public class Test {
 		System.out.println(u.getDate()+" Hello world..");
 
 	}
+	public void test() {
+		System.out.println("hello");
+	}
 
 }
